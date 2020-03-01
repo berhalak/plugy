@@ -1,2 +1,3 @@
-# ts-template
-Typescript package template
+# plugy
+Another dependency injection container
+
